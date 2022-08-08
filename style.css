@@ -48,7 +48,7 @@ body {
 
 .box-1 {
     grid-area: box-1;
-    background: linear-gradient(180deg, rgba(8, 8, 8, 0.993) 20%, rgba(20,20,20,1) 100%);
+    background: linear-gradient(180deg, rgb(8, 8, 8) 20%, rgba(20,20,20,1) 100%);
 }
 
 .box-2 {
@@ -156,16 +156,16 @@ body {
 }
 
 .user-1:hover{
-    border: #f5f5f5 5px solid;
+    border: #f5f5f5 4px solid;
 }
 .user-2:hover{
-    border: #f5f5f5 5px solid;
+    border: #f5f5f5 4px solid;
 }
 .user-3:hover{
-    border: #f5f5f5 5px solid;
+    border: #f5f5f5 4px solid;
 }
 .user-4:hover{
-    border: #f5f5f5 5px solid;
+    border: #f5f5f5 4px solid;
 }
 .user-5:hover{
     background-color: #ffffff;
