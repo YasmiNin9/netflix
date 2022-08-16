@@ -76,8 +76,8 @@ body {
     justify-content: center;
 
     position: relative;
-    left: 403px;
-    top: 129px;
+    top: 120px;
+    margin: auto;
 
     animation: entry 1s; /* animação */
 }
@@ -89,6 +89,7 @@ body {
     text-align: center;
     position: relative;
     top: 45px;
+    
     
     font-size: 64.2px;
     font-weight: 400;
@@ -188,7 +189,7 @@ body {
     height: 121px;
 
     position: relative;
-    left: 841px;
+    margin: auto;
     top: 123px;
 }
 
